@@ -1,0 +1,41 @@
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Catalogo.V_Catalogo.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.V__Buscar_Cliente.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Comprobante.V_Imprimir_Comprobante.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.V_Menu.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consultar_Categoria.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consultar_Codigo.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consulta_Nombre.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Crear.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Pedido.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Producto.V_Buscar_Producto.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lovey\Desktop\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.V_Registrar_Cliente.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\Vistas.csprojAssemblyReference.cache
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Catalogo.V_Catalogo.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.V__Buscar_Cliente.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.V_Registrar_Cliente.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Comprobante.V_Imprimir_Comprobante.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.V_Menu.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consultar_Categoria.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consultar_Codigo.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Consulta_Nombre.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Crear.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pedido.V_Pedido.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Producto.V_Buscar_Producto.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\Vistas.csproj.GenerateResource.cache
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\GABU\ucci 2020-10\PROCESOS DE SOFTWARE\SistemaVentas\SistemaVentas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

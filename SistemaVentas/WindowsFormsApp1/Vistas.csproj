@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E49004A-9446-4459-90BB-5241832353AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalogo\V_Catalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogo\V_Catalogo.Designer.cs">
+      <DependentUpon>V_Catalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\V_Buscar_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\V_Buscar_Cliente.Designer.cs">
+      <DependentUpon>V_Buscar_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\V_Registrar_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\V_Registrar_Cliente.Designer.cs">
+      <DependentUpon>V_Registrar_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comprobante\V_Imprimir_Comprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comprobante\V_Imprimir_Comprobante.Designer.cs">
+      <DependentUpon>V_Imprimir_Comprobante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\V_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\V_Menu.Designer.cs">
+      <DependentUpon>V_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido\V_Consultar_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido\V_Consultar_Categoria.Designer.cs">
+      <DependentUpon>V_Consultar_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido\V_Consultar_Codigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido\V_Consultar_Codigo.Designer.cs">
+      <DependentUpon>V_Consultar_Codigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido\V_Consulta_Nombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido\V_Consulta_Nombre.Designer.cs">
+      <DependentUpon>V_Consulta_Nombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido\V_Crear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido\V_Crear.Designer.cs">
+      <DependentUpon>V_Crear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido\V_Pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido\V_Pedido.Designer.cs">
+      <DependentUpon>V_Pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto\V_Registrar _Producto .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto\V_Registrar _Producto .Designer.cs">
+      <DependentUpon>V_Registrar _Producto .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto\V_Buscar_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto\V_Buscar_Producto.Designer.cs">
+      <DependentUpon>V_Buscar_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Catalogo\V_Catalogo.resx">
+      <DependentUpon>V_Catalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\V_Buscar_Cliente.resx">
+      <DependentUpon>V_Buscar_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\V_Registrar_Cliente.resx">
+      <DependentUpon>V_Registrar_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comprobante\V_Imprimir_Comprobante.resx">
+      <DependentUpon>V_Imprimir_Comprobante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\V_Menu.resx">
+      <DependentUpon>V_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido\V_Consultar_Categoria.resx">
+      <DependentUpon>V_Consultar_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido\V_Consultar_Codigo.resx">
+      <DependentUpon>V_Consultar_Codigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido\V_Consulta_Nombre.resx">
+      <DependentUpon>V_Consulta_Nombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido\V_Crear.resx">
+      <DependentUpon>V_Crear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido\V_Pedido.resx">
+      <DependentUpon>V_Pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto\V_Buscar_Producto.resx">
+      <DependentUpon>V_Buscar_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto\V_Registrar _Producto .resx">
+      <DependentUpon>V_Registrar _Producto .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Imagenes\naranja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\papaya.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
